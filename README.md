@@ -1,4 +1,4 @@
 # eMag-Price-Tracker
 A python price tracker for the romanian shopping site eMag.
-Please input your email, password of email and product's URL.
-The script will email you if the price will be reduced.
+Please input a valid email. Then create presets with your favourite products.
+Track a preset and the script will email you if the price will be reduced.
